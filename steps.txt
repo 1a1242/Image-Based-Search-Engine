@@ -1,0 +1,4 @@
+open the folder in vscode
+open terminal and run below command to start the web app
+-->python3 -m streamlit run web_app.py
+to stop use ctrl + c command.
